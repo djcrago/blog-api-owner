@@ -6,3 +6,4 @@ Other aspects of this directory include:
 
 - Modularizing code for the sake of readability and clarity
 - Displaying any error messages on the screen that come back from the server
+- Writing a custom function for working with dates
